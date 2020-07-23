@@ -110,11 +110,13 @@ prepDE.py
 The output from prepDE.py will be two files: gene_count_matrix.csv and transcript_count_matrix.csv
 
 An example of the top of the gene_count_matrix.csv:
+```
 gene_id,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20
 CRYBB2|CRYBB2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 DGCR6L|DGCR6L,2,2,4,0,0,2,2,3,3,3,3,6,3,2,6,6,7,3,7,9
 UPK3A|UPK3A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 GAL3ST1|GAL3ST1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+```
 
 ## 10.	We’ll now move to R for the remainder of our analyses, I have posted the code on another github page
 
